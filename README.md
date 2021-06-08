@@ -15,7 +15,7 @@
 - login via api 
 
 ## deadline 
-by July 31st 
+by July 31st 2021
 
 ## weekely 
 commit to own branch by every Weds 
