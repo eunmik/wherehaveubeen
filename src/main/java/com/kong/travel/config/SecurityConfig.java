@@ -83,5 +83,16 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
                 }) //로그아웃이 성공하면 그 다음 수행할 작업, logoutSuccessUrl은 페이지만 이동하고 Handler는 다양한 더 많은 로직 구현 가능
                 .deleteCookies("remember-me") //인증을 할때 서버에서 "remember-me" 쿠키를 발행한다. 로그아웃할 때 server에서 만든 쿠키를 삭제한다.
                 ;
+
+
+        http
+                    .sessionManagement()
+                    .maximumSessions(2) //동시 세션 최대 허용 개수
+                    .maxSessionsPreventsLogin(true) // true일 경우 현재 사용자가 로그인을 못하게 만든다, default는 false
+        ;
+
+        http
+                    .sessionManagement()
+                    .sessionFixation().changeSessionId(); //none : 무방비 상태, changeSessionId() : default
     }
 }
