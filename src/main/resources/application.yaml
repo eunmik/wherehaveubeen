@@ -40,7 +40,7 @@ spring:
     database: mysql
     show-sql: true
   datasource:
-    url: jdbc:mysql://localhost:33336/calendar_db?autoReconnect=true&characterEncoding=UTF8&zeroDateTimeBehavior=convertToNull&useSSL=false
+    url: jdbc:mysql://localhost:33336
     username: root
     password: root
     driver-class-name: com.mysql.jdbc.Driver
