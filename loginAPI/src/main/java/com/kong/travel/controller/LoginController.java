@@ -20,7 +20,7 @@ public class LoginController {
     private final HttpSession httpSession;
 
     @GetMapping(path="/code/kakao")
-    public String kakaoLogin(@RequestParam(value="code", required = false)String code) throws Exception{
+    public String kakaoLogin(@RequestParam(value="code", required = false)String code,@RequestParam(value="status", required = false) String status) throws Exception{
         System.out.println("######"+code);
         return code;
     }
