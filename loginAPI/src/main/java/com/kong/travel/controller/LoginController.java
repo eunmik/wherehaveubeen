@@ -37,10 +37,18 @@ public class LoginController {
         return "hello";
     }
 
-    @GetMapping(path="/")
-    public void Login(String code){
+    @GetMapping(path="/hello/")
+    public String Login(String code){
         System.out.println("############################"+code);
+        return "hello";
     }
+
+    @GetMapping(path="/code/naver") //
+    public String naverLogin(@RequestParam(value="code", required = false)String code,@RequestParam(value="status", required = false) String status) throws Exception{
+        System.out.println("######"+code);
+        return code;
+    }
+
 
 
 
