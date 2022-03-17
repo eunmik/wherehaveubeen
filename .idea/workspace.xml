@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -20,13 +23,62 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4345d7d-d0d9-40cb-a48c-40e2fca451e8" name="Default Changelist" comment="[Login] kakao social login&#10;&#10;카카오 로그인 연동 &#10;로그인 성공 시 redirect : /">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_stephenc_jcip_jcip_annotations_1_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_nimbusds_content_type_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_nimbusds_lang_tag_1_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_nimbusds_nimbus_jose_jwt_9_14.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_nimbusds_oauth2_oidc_sdk_9_19.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_activation_jakarta_activation_1_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_jakarta_mail_1_6_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_4_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_2_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_1_3_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_6_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_2_3_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_oauth2_client_2_5_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_oauth2_resource_server_2_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_oauth2_client_5_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_oauth2_core_5_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_oauth2_jose_5_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_oauth2_resource_server_5_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_test_5_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_5_3_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_3_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_3_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactAPP/react-basic-login/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/ReactAPP/react-basic-login/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactAPP/react-basic-login/src/Signin.js" beforeDir="false" afterPath="$PROJECT_DIR$/ReactAPP/react-basic-login/src/Signin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loginAPI/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/loginAPI/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loginAPI/src/main/java/com/kong/travel/TravelApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/loginAPI/src/main/java/com/kong/travel/TravelApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loginAPI/src/main/java/com/kong/travel/config/CustomOAuth2UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/loginAPI/src/main/java/com/kong/travel/config/CustomOAuth2UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loginAPI/src/main/java/com/kong/travel/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/loginAPI/src/main/java/com/kong/travel/config/SecurityConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/loginAPI/src/main/java/com/kong/travel/controller/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/loginAPI/src/main/java/com/kong/travel/controller/IndexController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reactJS/atomize/docs/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/reactJS/atomize/docs/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reactJS/atomize/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reactJS/atomize/docs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reactJS/atomize/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/reactJS/atomize/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reactJS/atomize/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/reactJS/atomize/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reactJS/atomize/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/reactJS/atomize/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loginAPI/src/main/java/com/kong/travel/entities/OAuthAttributes.java" beforeDir="false" afterPath="$PROJECT_DIR$/loginAPI/src/main/java/com/kong/travel/entities/OAuthAttributes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loginAPI/src/main/java/com/kong/travel/entities/SessionUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/loginAPI/src/main/java/com/kong/travel/entities/SessionUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loginAPI/src/main/java/com/kong/travel/entities/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/loginAPI/src/main/java/com/kong/travel/entities/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loginAPI/src/main/java/com/kong/travel/repositoriies/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/loginAPI/src/main/java/com/kong/travel/repositoriies/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loginAPI/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/loginAPI/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-react-oauth2-social-login-demo/react-social/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-react-oauth2-social-login-demo/react-social/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-react-oauth2-social-login-demo/spring-social/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-react-oauth2-social-login-demo/spring-social/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +100,14 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="21zMBhKRj0tjNxSzH3g1uRsL1YV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -79,8 +139,27 @@
       <recent name="D:\personal\IdeaProjects\wherehaveubeen\loginAPI\src\main\java\com\kong\travel" />
       <recent name="D:\personal\IdeaProjects\wherehaveubeen\loginAPI\src\main\resources" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.kong.travel" />
+    </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TravelApplication">
+    <configuration name="TravelApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <envs>
+        <env name="spring.security.oauth2.client.registration.google.client-secret" value="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" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="com.kong.travel.TravelApplication" />
+      <module name="travel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kong.travel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TravelApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="travel" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.kong.travel.TravelApplication" />
@@ -90,7 +169,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.TravelApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TravelApplication" />
+      </list>
+    </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -176,140 +264,6 @@
     <MESSAGE value="[Login] kakao social login&#10;&#10;카카오 로그인 연동 &#10;로그인 성공 시 redirect : /" />
     <option name="LAST_COMMIT_MESSAGE" value="[Login] kakao social login&#10;&#10;카카오 로그인 연동 &#10;로그인 성공 시 redirect : /" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="1667" y="280" key="#Project_Structure" timestamp="1638949951543">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state x="1667" y="280" key="#Project_Structure/0.0.3440.1400@0.0.3440.1400" timestamp="1638949951543" />
-    <state x="2034" y="358" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1639129315392">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state x="2034" y="358" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1639129315392" />
-    <state x="1992" y="411" key="#com.intellij.ide.util.MemberChooser" timestamp="1639126367171">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state x="1992" y="411" key="#com.intellij.ide.util.MemberChooser/0.0.3440.1400@0.0.3440.1400" timestamp="1639126367171" />
-    <state x="2309" y="492" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1639129206046">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state x="2309" y="492" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1639129206046" />
-    <state x="2310" y="450" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1639124670005">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state x="2310" y="450" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1639124670005" />
-    <state x="1304" y="106" width="1766" height="1200" key="DiffContextDialog" timestamp="1639016689329">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state x="1304" y="106" width="1766" height="1200" key="DiffContextDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1639016689329" />
-    <state x="1967" y="460" key="FileChooserDialogImpl" timestamp="1639124011756">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state x="1967" y="460" key="FileChooserDialogImpl/0.0.3440.1400@0.0.3440.1400" timestamp="1639124011756" />
-    <state width="1677" height="520" key="GridCell.Tab.0.bottom" timestamp="1647500385911">
-      <screen x="1720" y="0" width="1720" height="1400" />
-    </state>
-    <state width="1674" height="572" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1639188598565" />
-    <state width="1677" height="520" key="GridCell.Tab.0.bottom/0.0.1720.1400/1720.0.1720.1400@1720.0.1720.1400" timestamp="1647500385911" />
-    <state width="1877" height="537" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.-123.1920.1160@-1920.-123.1920.1160" timestamp="1642082690820" />
-    <state width="3397" height="520" key="GridCell.Tab.0.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1644227812396" />
-    <state width="1677" height="520" key="GridCell.Tab.0.center" timestamp="1647500385911">
-      <screen x="1720" y="0" width="1720" height="1400" />
-    </state>
-    <state width="1674" height="572" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1639188598565" />
-    <state width="1677" height="520" key="GridCell.Tab.0.center/0.0.1720.1400/1720.0.1720.1400@1720.0.1720.1400" timestamp="1647500385911" />
-    <state width="1877" height="537" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.-123.1920.1160@-1920.-123.1920.1160" timestamp="1642082690820" />
-    <state width="3397" height="520" key="GridCell.Tab.0.center/0.0.3440.1400@0.0.3440.1400" timestamp="1644227812396" />
-    <state width="1677" height="520" key="GridCell.Tab.0.left" timestamp="1647500385911">
-      <screen x="1720" y="0" width="1720" height="1400" />
-    </state>
-    <state width="1674" height="572" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1639188598565" />
-    <state width="1677" height="520" key="GridCell.Tab.0.left/0.0.1720.1400/1720.0.1720.1400@1720.0.1720.1400" timestamp="1647500385911" />
-    <state width="1877" height="537" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.-123.1920.1160@-1920.-123.1920.1160" timestamp="1642082690820" />
-    <state width="3397" height="520" key="GridCell.Tab.0.left/0.0.3440.1400@0.0.3440.1400" timestamp="1644227812396" />
-    <state width="1677" height="520" key="GridCell.Tab.0.right" timestamp="1647500385911">
-      <screen x="1720" y="0" width="1720" height="1400" />
-    </state>
-    <state width="1674" height="572" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1639188598565" />
-    <state width="1677" height="520" key="GridCell.Tab.0.right/0.0.1720.1400/1720.0.1720.1400@1720.0.1720.1400" timestamp="1647500385911" />
-    <state width="1877" height="537" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.-123.1920.1160@-1920.-123.1920.1160" timestamp="1642082690820" />
-    <state width="3397" height="520" key="GridCell.Tab.0.right/0.0.3440.1400@0.0.3440.1400" timestamp="1644227812396" />
-    <state width="1677" height="520" key="GridCell.Tab.1.bottom" timestamp="1647500362550">
-      <screen x="1720" y="0" width="1720" height="1400" />
-    </state>
-    <state width="1674" height="572" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1639188598565" />
-    <state width="1677" height="520" key="GridCell.Tab.1.bottom/0.0.1720.1400/1720.0.1720.1400@1720.0.1720.1400" timestamp="1647500362550" />
-    <state width="1877" height="537" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.-123.1920.1160@-1920.-123.1920.1160" timestamp="1642082696274" />
-    <state width="3397" height="520" key="GridCell.Tab.1.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1644227812396" />
-    <state width="1677" height="520" key="GridCell.Tab.1.center" timestamp="1647500362550">
-      <screen x="1720" y="0" width="1720" height="1400" />
-    </state>
-    <state width="1674" height="572" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1639188598565" />
-    <state width="1677" height="520" key="GridCell.Tab.1.center/0.0.1720.1400/1720.0.1720.1400@1720.0.1720.1400" timestamp="1647500362550" />
-    <state width="1877" height="537" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.-123.1920.1160@-1920.-123.1920.1160" timestamp="1642082696274" />
-    <state width="3397" height="520" key="GridCell.Tab.1.center/0.0.3440.1400@0.0.3440.1400" timestamp="1644227812396" />
-    <state width="1677" height="520" key="GridCell.Tab.1.left" timestamp="1647500362550">
-      <screen x="1720" y="0" width="1720" height="1400" />
-    </state>
-    <state width="1674" height="572" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1639188598565" />
-    <state width="1677" height="520" key="GridCell.Tab.1.left/0.0.1720.1400/1720.0.1720.1400@1720.0.1720.1400" timestamp="1647500362550" />
-    <state width="1877" height="537" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.-123.1920.1160@-1920.-123.1920.1160" timestamp="1642082696274" />
-    <state width="3397" height="520" key="GridCell.Tab.1.left/0.0.3440.1400@0.0.3440.1400" timestamp="1644227812396" />
-    <state width="1677" height="520" key="GridCell.Tab.1.right" timestamp="1647500362550">
-      <screen x="1720" y="0" width="1720" height="1400" />
-    </state>
-    <state width="1674" height="572" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1639188598565" />
-    <state width="1677" height="520" key="GridCell.Tab.1.right/0.0.1720.1400/1720.0.1720.1400@1720.0.1720.1400" timestamp="1647500362550" />
-    <state width="1877" height="537" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.-123.1920.1160@-1920.-123.1920.1160" timestamp="1642082696274" />
-    <state width="3397" height="520" key="GridCell.Tab.1.right/0.0.3440.1400@0.0.3440.1400" timestamp="1644227812396" />
-    <state width="1677" height="520" key="GridCell.Tab.2.bottom" timestamp="1647499596009">
-      <screen x="1720" y="0" width="1720" height="1400" />
-    </state>
-    <state width="1230" height="490" key="GridCell.Tab.2.bottom/0.0.1440.860@0.0.1440.860" timestamp="1639188598560" />
-    <state width="1677" height="520" key="GridCell.Tab.2.bottom/0.0.1720.1400/1720.0.1720.1400@1720.0.1720.1400" timestamp="1647499596009" />
-    <state width="3397" height="520" key="GridCell.Tab.2.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1644227812396" />
-    <state width="1677" height="520" key="GridCell.Tab.2.center" timestamp="1647499596009">
-      <screen x="1720" y="0" width="1720" height="1400" />
-    </state>
-    <state width="1230" height="490" key="GridCell.Tab.2.center/0.0.1440.860@0.0.1440.860" timestamp="1639188598560" />
-    <state width="1677" height="520" key="GridCell.Tab.2.center/0.0.1720.1400/1720.0.1720.1400@1720.0.1720.1400" timestamp="1647499596009" />
-    <state width="3397" height="520" key="GridCell.Tab.2.center/0.0.3440.1400@0.0.3440.1400" timestamp="1644227812396" />
-    <state width="1677" height="520" key="GridCell.Tab.2.left" timestamp="1647499596009">
-      <screen x="1720" y="0" width="1720" height="1400" />
-    </state>
-    <state width="1230" height="490" key="GridCell.Tab.2.left/0.0.1440.860@0.0.1440.860" timestamp="1639188598560" />
-    <state width="1677" height="520" key="GridCell.Tab.2.left/0.0.1720.1400/1720.0.1720.1400@1720.0.1720.1400" timestamp="1647499596009" />
-    <state width="3397" height="520" key="GridCell.Tab.2.left/0.0.3440.1400@0.0.3440.1400" timestamp="1644227812396" />
-    <state width="1677" height="520" key="GridCell.Tab.2.right" timestamp="1647499596009">
-      <screen x="1720" y="0" width="1720" height="1400" />
-    </state>
-    <state width="1230" height="490" key="GridCell.Tab.2.right/0.0.1440.860@0.0.1440.860" timestamp="1639188598560" />
-    <state width="1677" height="520" key="GridCell.Tab.2.right/0.0.1720.1400/1720.0.1720.1400@1720.0.1720.1400" timestamp="1647499596009" />
-    <state width="3397" height="520" key="GridCell.Tab.2.right/0.0.3440.1400@0.0.3440.1400" timestamp="1644227812396" />
-    <state x="1846" y="409" key="NewModule_or_Project.wizard" timestamp="1639124013580">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state x="1846" y="409" key="NewModule_or_Project.wizard/0.0.3440.1400@0.0.3440.1400" timestamp="1639124013580" />
-    <state x="1667" y="280" key="SettingsEditor" timestamp="1639128207829">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state x="1667" y="280" key="SettingsEditor/0.0.3440.1400@0.0.3440.1400" timestamp="1639128207829" />
-    <state x="2172" y="433" key="Vcs.Push.Dialog.v2" timestamp="1642127794473">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state x="2172" y="433" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1642127794473" />
-    <state x="2288" y="435" width="584" height="536" key="find.popup" timestamp="1641776660757">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state x="2288" y="435" width="584" height="536" key="find.popup/0.0.3440.1400@0.0.3440.1400" timestamp="1641776660757" />
-    <state x="1566" y="366" key="new project wizard" timestamp="1639016230095">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state x="1566" y="366" key="new project wizard/0.0.3440.1400@0.0.3440.1400" timestamp="1639016230095" />
-    <state x="2243" y="320" width="672" height="678" key="search.everywhere.popup" timestamp="1639126195332">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state x="2243" y="320" width="672" height="678" key="search.everywhere.popup/0.0.3440.1400@0.0.3440.1400" timestamp="1639126195332" />
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -320,7 +274,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/loginAPI/src/main/java/com/kong/travel/config/CustomOAuth2UserService.java</url>
-          <line>34</line>
+          <line>35</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -338,33 +292,28 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/loginAPI/src/main/java/com/kong/travel/config/SecurityConfig.java</url>
-          <line>27</line>
+          <line>28</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/loginAPI/src/main/java/com/kong/travel/entities/OAuthAttributes.java</url>
-          <line>48</line>
+          <line>81</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/loginAPI/src/main/java/com/kong/travel/config/SecurityConfig.java</url>
-          <line>15</line>
+          <line>16</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/loginAPI/src/main/java/com/kong/travel/config/CustomOAuth2UserService.java</url>
-          <line>30</line>
+          <line>31</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/loginAPI/src/main/java/com/kong/travel/entities/OAuthAttributes.java</url>
-          <line>60</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/loginAPI/src/main/java/com/kong/travel/entities/OAuthAttributes.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="12" />
+          <url>file://$PROJECT_DIR$/loginAPI/src/main/java/com/kong/travel/controller/LoginController.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

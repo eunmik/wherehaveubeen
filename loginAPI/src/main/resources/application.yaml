@@ -1,4 +1,0 @@
-
-server:
-  profiles:
-    active: oauth

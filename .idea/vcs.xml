@@ -4,5 +4,7 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/reactJS" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/reactJS/atomize" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-boot-react-oauth2-social-login-demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tmpFront/spring-react-login" vcs="Git" />
   </component>
 </project>

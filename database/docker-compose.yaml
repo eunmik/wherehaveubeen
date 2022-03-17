@@ -1,0 +1,19 @@
+on: "3.7" 
+services: 
+  db: 
+    image: mysql:5.7 
+    restart: always
+    command: --lower_case_table_names=1 
+    container_name: mysql-test 
+    ports:
+      - "3307:3306" 
+    environment: 
+      - MYSQL_DATABASE=database이름넣음
+      - MYSQL_ROOT_PASSWORD=password넣음  
+      - TZ=Asia/Seoul
+
+    command: 
+      - --character-set-server=utf8mb4
+      - --collation-server=utf8mb4_unicode_ci
+    volumes:
+      - /Users/Shared/data/mysql-test:/var/lib/mysql 
