@@ -19,7 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4345d7d-d0d9-40cb-a48c-40e2fca451e8" name="Default Changelist" comment="" />
+    <list default="true" id="e4345d7d-d0d9-40cb-a48c-40e2fca451e8" name="Default Changelist" comment="[Login] kakao social login&#10;&#10;카카오 로그인 연동 &#10;로그인 성공 시 redirect : /">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loginAPI/src/main/java/com/kong/travel/controller/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/loginAPI/src/main/java/com/kong/travel/controller/IndexController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactJS/atomize/docs/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/reactJS/atomize/docs/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactJS/atomize/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reactJS/atomize/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactJS/atomize/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/reactJS/atomize/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactJS/atomize/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/reactJS/atomize/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactJS/atomize/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/reactJS/atomize/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,10 +42,15 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="eunmik &lt;eunmik1022@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="21zMBhKRj0tjNxSzH3g1uRsL1YV" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -94,7 +107,52 @@
       <workItem from="1639128669959" duration="2335000" />
       <workItem from="1639359785379" duration="3315000" />
       <workItem from="1639388447384" duration="1982000" />
+      <workItem from="1640249896329" duration="172000" />
+      <workItem from="1641362904188" duration="6567000" />
+      <workItem from="1641534079077" duration="7601000" />
+      <workItem from="1641973491550" duration="611000" />
+      <workItem from="1642082674713" duration="626000" />
+      <workItem from="1642127783501" duration="1961000" />
+      <workItem from="1642726031647" duration="587000" />
+      <workItem from="1644226796954" duration="964000" />
+      <workItem from="1647499180057" duration="2408000" />
     </task>
+    <task id="LOCAL-00001" summary="social login page, server - ing">
+      <created>1640250001958</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1640250001958</updated>
+    </task>
+    <task id="LOCAL-00002" summary="[Login] naver social login&#10;&#10;네이버 로그인 연동 &#10;로그인 성공 시 redirect : /">
+      <created>1641778728338</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1641778728338</updated>
+    </task>
+    <task id="LOCAL-00003" summary="[Login] naver social login&#10;&#10;네이버 로그인 연동 &#10;로그인 성공 시 redirect : /">
+      <created>1641778755699</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1641778755699</updated>
+    </task>
+    <task id="LOCAL-00004" summary="[Login] naver social login&#10;&#10;네이버 로그인 연동 &#10;로그인 성공 시 redirect : /">
+      <created>1641778980657</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1641778980657</updated>
+    </task>
+    <task id="LOCAL-00005" summary="[Login] kakao social login&#10;&#10;카카오 로그인 연동 &#10;로그인 성공 시 redirect : /">
+      <created>1641782355970</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1641782355970</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +169,12 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="social login page, server - ing" />
+    <MESSAGE value="[Login] naver social login&#10;&#10;네이버 로그인 연동 &#10;로그인 성공 시 redirect : /" />
+    <MESSAGE value="[Login] kakao social login&#10;&#10;카카오 로그인 연동 &#10;로그인 성공 시 redirect : /" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Login] kakao social login&#10;&#10;카카오 로그인 연동 &#10;로그인 성공 시 redirect : /" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1667" y="280" key="#Project_Structure" timestamp="1638949951543">
@@ -141,66 +205,86 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1967" y="460" key="FileChooserDialogImpl/0.0.3440.1400@0.0.3440.1400" timestamp="1639124011756" />
-    <state width="1674" height="665" key="GridCell.Tab.0.bottom" timestamp="1639443275880">
-      <screen x="0" y="0" width="3440" height="1400" />
+    <state width="1677" height="520" key="GridCell.Tab.0.bottom" timestamp="1647500385911">
+      <screen x="1720" y="0" width="1720" height="1400" />
     </state>
     <state width="1674" height="572" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1639188598565" />
-    <state width="1674" height="665" key="GridCell.Tab.0.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1639443275880" />
-    <state width="1674" height="665" key="GridCell.Tab.0.center" timestamp="1639443275880">
-      <screen x="0" y="0" width="3440" height="1400" />
+    <state width="1677" height="520" key="GridCell.Tab.0.bottom/0.0.1720.1400/1720.0.1720.1400@1720.0.1720.1400" timestamp="1647500385911" />
+    <state width="1877" height="537" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.-123.1920.1160@-1920.-123.1920.1160" timestamp="1642082690820" />
+    <state width="3397" height="520" key="GridCell.Tab.0.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1644227812396" />
+    <state width="1677" height="520" key="GridCell.Tab.0.center" timestamp="1647500385911">
+      <screen x="1720" y="0" width="1720" height="1400" />
     </state>
     <state width="1674" height="572" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1639188598565" />
-    <state width="1674" height="665" key="GridCell.Tab.0.center/0.0.3440.1400@0.0.3440.1400" timestamp="1639443275880" />
-    <state width="1674" height="665" key="GridCell.Tab.0.left" timestamp="1639443275880">
-      <screen x="0" y="0" width="3440" height="1400" />
+    <state width="1677" height="520" key="GridCell.Tab.0.center/0.0.1720.1400/1720.0.1720.1400@1720.0.1720.1400" timestamp="1647500385911" />
+    <state width="1877" height="537" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.-123.1920.1160@-1920.-123.1920.1160" timestamp="1642082690820" />
+    <state width="3397" height="520" key="GridCell.Tab.0.center/0.0.3440.1400@0.0.3440.1400" timestamp="1644227812396" />
+    <state width="1677" height="520" key="GridCell.Tab.0.left" timestamp="1647500385911">
+      <screen x="1720" y="0" width="1720" height="1400" />
     </state>
     <state width="1674" height="572" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1639188598565" />
-    <state width="1674" height="665" key="GridCell.Tab.0.left/0.0.3440.1400@0.0.3440.1400" timestamp="1639443275880" />
-    <state width="1674" height="665" key="GridCell.Tab.0.right" timestamp="1639443275880">
-      <screen x="0" y="0" width="3440" height="1400" />
+    <state width="1677" height="520" key="GridCell.Tab.0.left/0.0.1720.1400/1720.0.1720.1400@1720.0.1720.1400" timestamp="1647500385911" />
+    <state width="1877" height="537" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.-123.1920.1160@-1920.-123.1920.1160" timestamp="1642082690820" />
+    <state width="3397" height="520" key="GridCell.Tab.0.left/0.0.3440.1400@0.0.3440.1400" timestamp="1644227812396" />
+    <state width="1677" height="520" key="GridCell.Tab.0.right" timestamp="1647500385911">
+      <screen x="1720" y="0" width="1720" height="1400" />
     </state>
     <state width="1674" height="572" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1639188598565" />
-    <state width="1674" height="665" key="GridCell.Tab.0.right/0.0.3440.1400@0.0.3440.1400" timestamp="1639443275880" />
-    <state width="1674" height="665" key="GridCell.Tab.1.bottom" timestamp="1639443275880">
-      <screen x="0" y="0" width="3440" height="1400" />
+    <state width="1677" height="520" key="GridCell.Tab.0.right/0.0.1720.1400/1720.0.1720.1400@1720.0.1720.1400" timestamp="1647500385911" />
+    <state width="1877" height="537" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.-123.1920.1160@-1920.-123.1920.1160" timestamp="1642082690820" />
+    <state width="3397" height="520" key="GridCell.Tab.0.right/0.0.3440.1400@0.0.3440.1400" timestamp="1644227812396" />
+    <state width="1677" height="520" key="GridCell.Tab.1.bottom" timestamp="1647500362550">
+      <screen x="1720" y="0" width="1720" height="1400" />
     </state>
     <state width="1674" height="572" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1639188598565" />
-    <state width="1674" height="665" key="GridCell.Tab.1.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1639443275880" />
-    <state width="1674" height="665" key="GridCell.Tab.1.center" timestamp="1639443275880">
-      <screen x="0" y="0" width="3440" height="1400" />
+    <state width="1677" height="520" key="GridCell.Tab.1.bottom/0.0.1720.1400/1720.0.1720.1400@1720.0.1720.1400" timestamp="1647500362550" />
+    <state width="1877" height="537" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.-123.1920.1160@-1920.-123.1920.1160" timestamp="1642082696274" />
+    <state width="3397" height="520" key="GridCell.Tab.1.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1644227812396" />
+    <state width="1677" height="520" key="GridCell.Tab.1.center" timestamp="1647500362550">
+      <screen x="1720" y="0" width="1720" height="1400" />
     </state>
     <state width="1674" height="572" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1639188598565" />
-    <state width="1674" height="665" key="GridCell.Tab.1.center/0.0.3440.1400@0.0.3440.1400" timestamp="1639443275880" />
-    <state width="1674" height="665" key="GridCell.Tab.1.left" timestamp="1639443275880">
-      <screen x="0" y="0" width="3440" height="1400" />
+    <state width="1677" height="520" key="GridCell.Tab.1.center/0.0.1720.1400/1720.0.1720.1400@1720.0.1720.1400" timestamp="1647500362550" />
+    <state width="1877" height="537" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.-123.1920.1160@-1920.-123.1920.1160" timestamp="1642082696274" />
+    <state width="3397" height="520" key="GridCell.Tab.1.center/0.0.3440.1400@0.0.3440.1400" timestamp="1644227812396" />
+    <state width="1677" height="520" key="GridCell.Tab.1.left" timestamp="1647500362550">
+      <screen x="1720" y="0" width="1720" height="1400" />
     </state>
     <state width="1674" height="572" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1639188598565" />
-    <state width="1674" height="665" key="GridCell.Tab.1.left/0.0.3440.1400@0.0.3440.1400" timestamp="1639443275880" />
-    <state width="1674" height="665" key="GridCell.Tab.1.right" timestamp="1639443275880">
-      <screen x="0" y="0" width="3440" height="1400" />
+    <state width="1677" height="520" key="GridCell.Tab.1.left/0.0.1720.1400/1720.0.1720.1400@1720.0.1720.1400" timestamp="1647500362550" />
+    <state width="1877" height="537" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.-123.1920.1160@-1920.-123.1920.1160" timestamp="1642082696274" />
+    <state width="3397" height="520" key="GridCell.Tab.1.left/0.0.3440.1400@0.0.3440.1400" timestamp="1644227812396" />
+    <state width="1677" height="520" key="GridCell.Tab.1.right" timestamp="1647500362550">
+      <screen x="1720" y="0" width="1720" height="1400" />
     </state>
     <state width="1674" height="572" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1639188598565" />
-    <state width="1674" height="665" key="GridCell.Tab.1.right/0.0.3440.1400@0.0.3440.1400" timestamp="1639443275880" />
-    <state width="1674" height="665" key="GridCell.Tab.2.bottom" timestamp="1639443275880">
-      <screen x="0" y="0" width="3440" height="1400" />
+    <state width="1677" height="520" key="GridCell.Tab.1.right/0.0.1720.1400/1720.0.1720.1400@1720.0.1720.1400" timestamp="1647500362550" />
+    <state width="1877" height="537" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.-123.1920.1160@-1920.-123.1920.1160" timestamp="1642082696274" />
+    <state width="3397" height="520" key="GridCell.Tab.1.right/0.0.3440.1400@0.0.3440.1400" timestamp="1644227812396" />
+    <state width="1677" height="520" key="GridCell.Tab.2.bottom" timestamp="1647499596009">
+      <screen x="1720" y="0" width="1720" height="1400" />
     </state>
     <state width="1230" height="490" key="GridCell.Tab.2.bottom/0.0.1440.860@0.0.1440.860" timestamp="1639188598560" />
-    <state width="1674" height="665" key="GridCell.Tab.2.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1639443275880" />
-    <state width="1674" height="665" key="GridCell.Tab.2.center" timestamp="1639443275880">
-      <screen x="0" y="0" width="3440" height="1400" />
+    <state width="1677" height="520" key="GridCell.Tab.2.bottom/0.0.1720.1400/1720.0.1720.1400@1720.0.1720.1400" timestamp="1647499596009" />
+    <state width="3397" height="520" key="GridCell.Tab.2.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1644227812396" />
+    <state width="1677" height="520" key="GridCell.Tab.2.center" timestamp="1647499596009">
+      <screen x="1720" y="0" width="1720" height="1400" />
     </state>
     <state width="1230" height="490" key="GridCell.Tab.2.center/0.0.1440.860@0.0.1440.860" timestamp="1639188598560" />
-    <state width="1674" height="665" key="GridCell.Tab.2.center/0.0.3440.1400@0.0.3440.1400" timestamp="1639443275880" />
-    <state width="1674" height="665" key="GridCell.Tab.2.left" timestamp="1639443275880">
-      <screen x="0" y="0" width="3440" height="1400" />
+    <state width="1677" height="520" key="GridCell.Tab.2.center/0.0.1720.1400/1720.0.1720.1400@1720.0.1720.1400" timestamp="1647499596009" />
+    <state width="3397" height="520" key="GridCell.Tab.2.center/0.0.3440.1400@0.0.3440.1400" timestamp="1644227812396" />
+    <state width="1677" height="520" key="GridCell.Tab.2.left" timestamp="1647499596009">
+      <screen x="1720" y="0" width="1720" height="1400" />
     </state>
     <state width="1230" height="490" key="GridCell.Tab.2.left/0.0.1440.860@0.0.1440.860" timestamp="1639188598560" />
-    <state width="1674" height="665" key="GridCell.Tab.2.left/0.0.3440.1400@0.0.3440.1400" timestamp="1639443275880" />
-    <state width="1674" height="665" key="GridCell.Tab.2.right" timestamp="1639443275880">
-      <screen x="0" y="0" width="3440" height="1400" />
+    <state width="1677" height="520" key="GridCell.Tab.2.left/0.0.1720.1400/1720.0.1720.1400@1720.0.1720.1400" timestamp="1647499596009" />
+    <state width="3397" height="520" key="GridCell.Tab.2.left/0.0.3440.1400@0.0.3440.1400" timestamp="1644227812396" />
+    <state width="1677" height="520" key="GridCell.Tab.2.right" timestamp="1647499596009">
+      <screen x="1720" y="0" width="1720" height="1400" />
     </state>
     <state width="1230" height="490" key="GridCell.Tab.2.right/0.0.1440.860@0.0.1440.860" timestamp="1639188598560" />
-    <state width="1674" height="665" key="GridCell.Tab.2.right/0.0.3440.1400@0.0.3440.1400" timestamp="1639443275880" />
+    <state width="1677" height="520" key="GridCell.Tab.2.right/0.0.1720.1400/1720.0.1720.1400@1720.0.1720.1400" timestamp="1647499596009" />
+    <state width="3397" height="520" key="GridCell.Tab.2.right/0.0.3440.1400@0.0.3440.1400" timestamp="1644227812396" />
     <state x="1846" y="409" key="NewModule_or_Project.wizard" timestamp="1639124013580">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
@@ -209,10 +293,14 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1667" y="280" key="SettingsEditor/0.0.3440.1400@0.0.3440.1400" timestamp="1639128207829" />
-    <state x="2288" y="435" width="584" height="536" key="find.popup" timestamp="1639128349359">
+    <state x="2172" y="433" key="Vcs.Push.Dialog.v2" timestamp="1642127794473">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="2288" y="435" width="584" height="536" key="find.popup/0.0.3440.1400@0.0.3440.1400" timestamp="1639128349359" />
+    <state x="2172" y="433" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1642127794473" />
+    <state x="2288" y="435" width="584" height="536" key="find.popup" timestamp="1641776660757">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2288" y="435" width="584" height="536" key="find.popup/0.0.3440.1400@0.0.3440.1400" timestamp="1641776660757" />
     <state x="1566" y="366" key="new project wizard" timestamp="1639016230095">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
@@ -229,6 +317,54 @@
           <url>file://$PROJECT_DIR$/loginAPI/src/main/java/com/kong/travel/controller/LoginController.java</url>
           <line>33</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/loginAPI/src/main/java/com/kong/travel/config/CustomOAuth2UserService.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/loginAPI/src/main/java/com/kong/travel/config/CustomOAuth2UserService.java</url>
+          <line>48</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/loginAPI/src/main/java/com/kong/travel/controller/IndexController.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/loginAPI/src/main/java/com/kong/travel/config/SecurityConfig.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/loginAPI/src/main/java/com/kong/travel/entities/OAuthAttributes.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/loginAPI/src/main/java/com/kong/travel/config/SecurityConfig.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/loginAPI/src/main/java/com/kong/travel/config/CustomOAuth2UserService.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/loginAPI/src/main/java/com/kong/travel/entities/OAuthAttributes.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/loginAPI/src/main/java/com/kong/travel/entities/OAuthAttributes.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

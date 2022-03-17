@@ -20,7 +20,7 @@ public class IndexController {
         System.out.println(user.getEmail())
         ;
 
-        return "redirect:/haha";
+        return user.getEmail();
     }
 
     @RequestMapping("callback")
