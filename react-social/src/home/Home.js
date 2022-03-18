@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 import './Home.css';
+import MainPicture from '../img/main.jpg';
+
 
 class Home extends Component {
     render() {
@@ -7,21 +9,9 @@ class Home extends Component {
             <div className="home-container">
                 <div className="container">
                     <div className="graf-bg-container">
-                        <div className="graf-layout">
-                            <div className="graf-circle"></div>
-                            <div className="graf-circle"></div>
-                            <div className="graf-circle"></div>
-                            <div className="graf-circle"></div>
-                            <div className="graf-circle"></div>
-                            <div className="graf-circle"></div>
-                            <div className="graf-circle"></div>
-                            <div className="graf-circle"></div>
-                            <div className="graf-circle"></div>
-                            <div className="graf-circle"></div>
-                            <div className="graf-circle"></div>
-                        </div>
+                        <img src={MainPicture}/>
                     </div>
-                    <h1 className="home-title">Spring Boot React OAuth2 Social Login Demo</h1>
+                    <h1 className="home-title">지도/사진 공유 사이트</h1>
                 </div>
             </div>
         )

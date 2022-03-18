@@ -15,10 +15,10 @@
 
 .graf-bg-container {
     width: 100%;
-    height: 310px;
+    height: 1000px;
     overflow: hidden;
     perspective: 2000px;
-    opacity: .7
+    opacity: 1
 }
 
 .graf-layout {
