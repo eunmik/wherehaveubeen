@@ -16,6 +16,8 @@ public class OAuth2UserInfoFactory {
             return new GithubOAuth2UserInfo(attributes);
         } else if (registrationId.equalsIgnoreCase(AuthProvider.naver.toString())) {
             return new NaverOAuth2UserInfo(attributes);
+        } else if (registrationId.equalsIgnoreCase(AuthProvider.kakao.toString())) {
+            return new KakaoOAuth2UserInfo(attributes);
         }
 
         else {
