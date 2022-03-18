@@ -41,6 +41,16 @@
     margin-left: 3px;
 }
 
+.social-btn.naver img {
+    height: 24px;
+    margin-left: 3px;
+}
+
+.social-btn.kakao img {
+    height: 24px;
+    margin-left: 3px;
+}
+
 .signup-link {
     color: rgba(0, 0, 0, 0.65);
     font-size: 14px;
