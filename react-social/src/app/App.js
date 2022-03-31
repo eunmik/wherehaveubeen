@@ -18,18 +18,33 @@ import 'react-s-alert/dist/s-alert-default.css';
 import 'react-s-alert/dist/s-alert-css-effects/slide.css';
 import './App.css';
 
+import Write from '../user/menu/Mail';
+import Map from '../user/menu/Cafe';
+
+const menuList = {
+  0: <Home />,
+  1: <Write />,
+  2: <Map />,
+};
+
 class App extends Component {
   constructor(props) {
     super(props);
     this.state = {
       authenticated: false,
       currentUser: null,
-      loading: true
+      loading: true,
+      menu: 0,
     }
 
     this.loadCurrentlyLoggedInUser = this.loadCurrentlyLoggedInUser.bind(this);
     this.handleLogout = this.handleLogout.bind(this);
   }
+
+  changeMenu = (menuIndex) =>{
+    this.setState({menu : menuIndex});
+  }
+
 
   loadCurrentlyLoggedInUser() {
     getCurrentUser()
@@ -70,6 +85,19 @@ class App extends Component {
           <AppHeader authenticated={this.state.authenticated} onLogout={this.handleLogout} />
         </div>
         <div className="app-body">
+        </div>
+        <div className="wrap">
+        <div className="menuBar">
+          <ul className="tabs">
+            <li className={`${this.state.menu === 0? 'active': ''}`} onClick={() => this.changeMenu(0)}>DashBoard</li>
+            <li className={`${this.state.menu === 1? 'active': ''}`} onClick={() => this.changeMenu(1)}>Write</li>
+            <li className={`${this.state.menu === 2? 'active': ''}`} onClick={() => this.changeMenu(2)}>Map</li>
+          </ul>
+        </div>
+        <div className="contentArea">
+          {menuList[this.state.menu]}
+        </div>
+
           <Switch>
             <Route exact path="/" component={Home}></Route>           
             <PrivateRoute path="/profile" authenticated={this.state.authenticated} currentUser={this.state.currentUser}
@@ -79,7 +107,10 @@ class App extends Component {
             <Route path="/oauth2/redirect" component={OAuth2RedirectHandler}></Route>  
             <Route component={NotFound}></Route>
           </Switch>
+
+
         </div>
+
         <Alert stack={{limit: 3}} 
           timeout = {3000}
           position='top-right' effect='slide' offset={65} />
