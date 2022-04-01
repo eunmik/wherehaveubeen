@@ -99,7 +99,7 @@ class App extends Component {
         </div>
 
           <Switch>
-            <Route exact path="/" component={Home}></Route>           
+         {/*   <Route exact path="/" component={Home}></Route>           */}
             <PrivateRoute path="/profile" authenticated={this.state.authenticated} currentUser={this.state.currentUser}
               component={Profile}></PrivateRoute>
             <Route path="/login"
