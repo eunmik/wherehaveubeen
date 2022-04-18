@@ -22,4 +22,9 @@ public class UserController {
         return userRepository.findById(userPrincipal.getId())
                 .orElseThrow(() -> new ResourceNotFoundException("User", "id", userPrincipal.getId()));
     }
+
+    @GetMapping("/user/test")
+    public String getTest() {
+        return "OK";
+    }
 }
